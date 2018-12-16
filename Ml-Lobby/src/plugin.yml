@@ -1,0 +1,5 @@
+main: de.ilovejava.lobby.Lobby
+name: Lobby
+author: ILoveJava
+version: 0.0.2
+depend: [Multiverse-Core]
